@@ -246,8 +246,11 @@ header {
   font-family: "Rubik", sans-serif;
 }
 .extension_heading p {
+  font-family: "Rubik", sans-serif;
+  text-align: center;
   color: #9194a1;
-  /* letter-spacing: 0.09rem; */
+  font-size: 1.2rem;
+  line-height: 1.6rem;
 }
 .extension_container {
   display: flex;
