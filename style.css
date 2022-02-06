@@ -640,6 +640,9 @@ footer {
   .footer {
     width: 100%;
   }
+  .extensions {
+    margin-top: 42rem;
+  }
 }
 .hide {
   display: none;
